@@ -1,20 +1,20 @@
 <h3>Directory Structure</h3>
-data/
-    train/
-        dogs/
-            dog001.jpg
-            dog002.jpg
-            ...
-        cats/
-            cat001.jpg
-            cat002.jpg
-            ...
-    validation/
-        dogs/
-            dog001.jpg
-            dog002.jpg
-            ...
-        cats/
-            cat001.jpg
-            cat002.jpg
+data/</Br>
+    train/</Br>
+        dogs/</Br>
+            dog001.jpg</Br>
+            dog002.jpg</Br>
+            ...</Br>
+        cats/</Br>
+            cat001.jpg</Br>
+            cat002.jpg</Br>
+            ...</Br>
+    validation/</Br>
+        dogs/</Br>
+            dog001.jpg</Br>
+            dog002.jpg</Br>
+            ...</Br>
+        cats/</Br>
+            cat001.jpg</Br>
+            cat002.jpg</Br>
             ...
